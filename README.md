@@ -1,35 +1,22 @@
-###### Profile Visitor
-![Profile views](https://gpvc.arturio.dev/Afran-rafi)
-<h1 align="left">Hi 👋, I'm Fahim_Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ra_Rafiq</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-##### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=040839&lines=A+Passionate+Full+Stack+Developer!!;A+Passionate+MERN+Stack+Developer!!;A+Passionate+Python+Developer!!)](https://git.io/typing-svg)
-A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
-the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
+- 🌱 I’m currently learning **Javascript**
 
-- 🌱 I’m currently learning Javascript, React, MERN Stack, Java and Python!!.
-- 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: programming.fahim@gmail.com
+- 👨‍💻 All of my projects are available at [https://link](https://link)
 
+- 📫 How to contact me **code.dev.rafiq@gmail.com**
 
-### Feel free to visit my social account!!
+- 📄 Know about my experiences [6 month](6 month)
 
-<a href="https://twitter.com/fahimahmedafran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahmedafran" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fahim-ahmed-a43579234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-ahmed-a43579234/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18220842/afran-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afran_rafi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/afran.rafi.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afran.rafi.520" height="30" width="40" /></a>
-<a href="https://instagram.com/programmer_afran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afran_rafiiii" height="30" width="40" /></a>
+- ⚡ Fun fact **I'm always serious**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rarafiq36044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rarafiq36044" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/max-gamer-b84b0a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-gamer-b84b0a249" height="30" width="40" /></a>
+<a href="https://fb.com/hey.bro36044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hey.bro36044" height="30" width="40" /></a>
 </p>
 
-## I am still Learning these programming languages!!
-
-## Summaries of my skills!!
-
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afran-rafi&theme=dracula&langs_count=8)](https://github.com/Afran-rafi/github-readme-stats)
-![Fahim Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Afran-rafi&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afran-rafi&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=Afran-rafi&theme=xcode)](https://github.com/Afran-rafi/github-readme-activity-graph)
-
-## Github Metrics!!
-![GitHub metrics](https://metrics.lecoq.io/AFran-rafi)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
