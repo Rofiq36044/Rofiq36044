@@ -10,8 +10,6 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: programming.fahim@gmail.com
 
-#### Trophy!!
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afran-rafi" alt="afran-rafi" /></a> </p>
 
 ### Feel free to visit my social account!!
 
